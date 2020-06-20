@@ -141,7 +141,7 @@ button:focus {
 }
 
 .modal-header h3 {
-  margin: 0;
+  /* margin: 0px; */
   border-bottom: 1px solid #333;
 }
 
@@ -167,6 +167,6 @@ button:focus {
   background: transparent;
   font-size: 25px;
   position: absolute;
-  top: 0;
+  top: 20px;
   right: 0;
 }
